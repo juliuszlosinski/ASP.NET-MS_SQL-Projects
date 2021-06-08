@@ -1,7 +1,8 @@
 # MS-SQL-Projects
 Hello!
 
-This folder contains project that is using ASP.NET and MS SQL Databases.
+This folder contains project created by using ASP.NET and MS SQL Databases.
+The main purpose of this project is to register dancing competitions and players (pairs).
 
 See ya ;)
 
