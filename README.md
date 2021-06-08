@@ -1,4 +1,4 @@
-# MS-SQL-Projects
+# ASP.NET-MS_SQL-Projects
 Hello!
 
 This folder contains project created by using ASP.NET and MS SQL Databases.
